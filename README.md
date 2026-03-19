@@ -1,7 +1,7 @@
 <h1 align="center">Manasi Patil</h1>
 
 <p align="center">
-  <strong>Applied ML Engineer &nbsp;·&nbsp; Python &nbsp;·&nbsp; Flask &nbsp;·&nbsp; React</strong>
+  <strong>Applied ML Engineer &nbsp;·&nbsp; Python &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Streamlit</strong>
 </p>
 
 <p align="center">
@@ -28,32 +28,31 @@
 
 **Familiar**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Tools & Infra**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-6B21A8?style=flat-square&logo=yahoo&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manasi210772&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasi210772&layout=compact&theme=default&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=manasi210772&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  &nbsp;&nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasi210772&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi210772&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi210772&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
 ---
@@ -84,15 +83,6 @@
 `Python` `Streamlit` `PIL` `Bit Manipulation`
 
 **Why it matters:** A niche, self-motivated project that shows curiosity beyond standard ML templates — and the ability to translate a low-level algorithm directly into a usable web application.
-
----
-
-### 🌐 [Love & Crafts Digital](https://github.com/manasi210772/love-and-crafts-digital)
-> A modern e-commerce front-end built with **React + TypeScript**, Supabase, Radix UI, and TanStack Query.
-
-`React` `TypeScript` `Supabase` `Tailwind CSS` `Radix UI` `Zod`
-
-**Why it matters:** Demonstrates full-stack product instincts — auth, database, type-safe forms, and component design in a production-grade React setup.
 
 ---
 

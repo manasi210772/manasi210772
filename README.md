@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=manasi210772&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![yfinance](https://img.shields.io/badge/yfinance-6B21A8?style=flat-square&logo=yahoo&logoColor=white)
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -55,7 +55,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi210772&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
 
----
+
 
 ## 🚀 Featured Work
 
@@ -84,21 +84,15 @@
 
 **Why it matters:** A niche, self-motivated project that shows curiosity beyond standard ML templates — and the ability to translate a low-level algorithm directly into a usable web application.
 
----
+
 
 ## 🎯 Currently Building
 
 Expanding my ML work into systems that are **interpretable by design** — combining predictive models with explainability layers and shipping them as production-ready web applications. Exploring the intersection of financial ML and XAI.
 
----
+
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasi-patil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasi-patil-596034326)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manasi210772@gmail.com)
-
----
-
-<p align="center">
-  <em>Open to internship and junior ML/fullstack roles. Based in Maharashtra, India.</em>
-</p>
